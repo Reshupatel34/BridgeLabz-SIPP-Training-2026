@@ -32,7 +32,7 @@ The primary objective of this repository is to strengthen programming fundamenta
 └── 📁 Practice Problems
 🚀 Getting Started
 Clone the Repository
-git clone https://github.com/pragati-2024/BridgeLabz-SIPP-Training-2026.git
+git clone https://github.com/Reshupatel34/BridgeLabz-SIPP-Training-2026
 Navigate to the Project
 cd BridgeLabz-SIPP-Training-2026
 Compile a Java Program
